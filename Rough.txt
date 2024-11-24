@@ -1,0 +1,2 @@
+Azure Functions: Its like crontab
+Azure App Services/ WebApps: Ready to deploy a tech stack with a code from any SCM tool
