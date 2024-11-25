@@ -1,2 +1,13 @@
 Azure Functions: Its like crontab
-Azure App Services/ WebApps: Ready to deploy a tech stack with a code from any SCM tool
+Azure App Services/ WebApps: Ready to deploy a tech stack with a code from any SCM tool12
+
+
+git config --global user.name "iamarunix"
+git config --global user.email "arun.vmhss@gmail.com"
+git config --global user.signingkey <12343>
+
+gpg --full-generate-key
+gpg --list-secret-keys --keyid-format LONG
+gpg --armor --export CE334D5A73491FE5
+
+
