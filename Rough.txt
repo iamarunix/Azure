@@ -10,4 +10,6 @@ gpg --full-generate-key
 gpg --list-secret-keys --keyid-format LONG
 gpg --armor --export CE334D5A73491FE5
 
+ji
+
 
