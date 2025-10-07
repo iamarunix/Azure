@@ -12,4 +12,31 @@ gpg --armor --export CE334D5A73491FE5
 
 ji
 
+-----
+
+Administer Identity
+Administer Goverance and Compliance 
+Administer Azure Resources
+
+Administer Azure Storage 
+
+Administer Azure Virtual Machines 
+Administer PAAS Compute options 
+
+Administer Virtual Networking 
+Administer Intersite Connectivity 
+Administer Networking Traffice 
+
+Administer Data Protection 
+Administer Monitoring 
+----------
+
+Microsoft Entra ID:
+  its a cloud id , created to use in all MS products like ms365, dropbox, azure and other products as well
+identity 
+account
+entra id 
+tenant
+directory 
+p1, p2, goverance , free levels 
 
